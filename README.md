@@ -28,7 +28,7 @@ export JAVA_HOME;
 If you were using terminal then we would need to add these lines at bottom of .bashrc file
 
 ### Table of Contents
-- [Introduction](src/main/scala/Introduction.md)
-- [General Shell Command](src/main/scala/GeneralShellCommand.md)
+- [Introduction](src/main/Introduction.md)
+- [General Shell Command](src/main/GeneralShellCommand.md)
 - [Data Definition Language](src/main/scala/ddl/DataDefinitonLanguage.md)
 - [Data Manipulation Language](src/main/scala/dml/DataManipulationLanguage.md)
